@@ -1,0 +1,10 @@
+{
+  "strategy": "nationwide",
+  "national": [
+    "https://www.gov.cn/",
+    "https://www.ndrc.gov.cn/",
+    "https://www.miit.gov.cn/",
+    "https://www.samr.gov.cn/"
+  ],
+  "provincial_scope": "31 provincial-level administrative regions"
+}

@@ -1,0 +1,4 @@
+name: policy-mapping
+version: 0.5.1
+default_renderer: markdown
+supported_renderers: [markdown, docx, html, txt]
